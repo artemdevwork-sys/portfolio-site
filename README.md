@@ -11,8 +11,18 @@ Booking pages and simple CRM dashboards for small service businesses.
 - Hero with clear offer
 - Services
 - Featured Luna Studio CRM case study
+- Freelance packages
 - Process
+- FAQ
 - Contact
+
+## Freelance Platform Kit
+
+Profile headlines, descriptions, package ideas and proposal templates are stored in:
+
+```text
+freelance-profile-kit.md
+```
 
 ## Live case study
 
